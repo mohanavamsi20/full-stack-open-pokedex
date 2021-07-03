@@ -32,7 +32,7 @@ jobs:
       - name: Run a one-line script
         run: date
         
-      - nmae: Run a one-line script
+      - name: Run a one-line script
         run: ls -l
 
       # Runs a set of commands using the runners shell
